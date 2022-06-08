@@ -1,0 +1,131 @@
+==Formats==
+================
+
+==Alphabets==
+=============
+This is how the alphabets are written
+in lower case, they are
+abcdefghijklmnopqrstuvwxyz
+
+in upper case,they are
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+All numbers are in this rage 0-9 as written below:
+1234567890
+
+==Names of People==
+===================
+Ms Janet
+Mr. Ramese
+Mrs Joan
+Mrs. Jackson
+Mr Lawson
+Ms Anderson
+Mr. David
+Ms Anabel
+Mr Anderson
+Mr, Marne
+Mr John
+
+==Phone numbers==
+=================
+ 
+sample postal codes are
+903-342-2949
+803-334-7865
+702-543-7654
+900 334 7865
+700 597 3326
+909*357*8754
+900-200-4938
+800-033-9288
+Lagos line
+01_293_2928
+01_654_2654
+01_293_9675
+
+a
+aa
+aaa 
+aaaa
+aaaaa
+aaaaaa
+aaaaaaa
+
+==emails==
+==========
+Emails dont get delivered if the format is wrong. Its important to have a valid email
+The format is 
+1. Recipient name
+2. @ symbol
+3. Domain name
+4. Top-level domain
+
+Examples are 
+=============
+Using: firstname.secondname@domain.com.
+johndoe@domainsample.com
+peter.parker@zylker.com 
+segun_bonire@welding.org
+john.doe@domainsample.net
+john.doe43@domainsample.co.uk
+emmanuel_bakare@sample.com
+gbigbega+bakare@blender.org
+
+ 
+There are also some very great website you should visit.
+
+https://www.microsoft.com
+https://docs.python.org/
+http://sameplesite.com
+www.woodworks.com
+http://www.schoolusa.com
+
+Computers IP Addresses
+========================
+1. sample IP addresses are 3 digits grouped into 4 seperated by a .
+2. There are 3 IP address classes
+   a. Class A IP : 1-126  (maximum network 128)
+     i.   100.100.0.100
+     ii.  121.90.100.2 
+   b. Cass B IPs : 128 -191 (Maximun network 16384)
+      i. 129.111.221.9
+      ii. 190.45.90.123
+   c. Class C IPs : 192 - 223 (Max Net 2097157)
+       i. 192.0.0.126
+       ii. 220.10.10.4
+   e. Class D IPs : 224-239 (Not Available)
+       i. 240.30.20.12
+       ii. 234.254.255.2
+   127.0.0.1 Is reserved for localhost
+   0.0.0.0 is also valid
+other IPs
+120.102.12.32
+112.10.10.2
+192.58.0.10
+900.56.34.55
+910.56.34.55
+800.87.44.32
+808.222.111.1
+804.212.11.10
+802.32.17.61
+xxx.xxx.xxx.xxx
+abc.def.ghi.jkl
+
+Class 1 IPs: 1-126
+
+this are all the special characters you wan also use in Regex
+. ^ * + ? { } [ ] \ | ( ) 
+
+==File Names==
+myfile.exe
+yourfile.exe
+newfile.bat
+oldfile.exe
+samefile.doc
+somefile.py
+loadfile.xslx
+sample.batch
+
+
+ 

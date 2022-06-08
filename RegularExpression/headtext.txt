@@ -1,0 +1,5 @@
+From: james@brown.com
+User-Agent: Mozilla FireFox 1.23(R2212/2322)
+MIMEVersion: 2.0
+To: editor@brown.com
+content-Type: (image/CTT)
